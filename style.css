@@ -129,6 +129,7 @@ p{
 }
 .content-project{
     display: flex;
+    
 }
 .project-title{
  color: #ffff;
@@ -170,7 +171,7 @@ p{
     color: #ffff;
 }
 .card{
-    background: #0072ff;
+    
    padding: 5px;
 }
 .card img{
